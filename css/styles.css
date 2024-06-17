@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #ADD8E6; /* Light blue */
+    background-color: #42a1e5; /* Light blue */
     padding: 15px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -86,8 +86,8 @@ main {
 
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 200px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 50px;
     margin-bottom: 600px; /* Increased margin for more space before contacts section */
 }
 
